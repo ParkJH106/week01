@@ -9,6 +9,7 @@
 #### Herrmann Brain 
 
 A quadrant: Analytical thinking (Rational)
+
 Key words : Auditive, logical, factual, critical, technical and quantitative.
 Preferred activities : collecting data, analysis, understanding how things work, 
 judging ideas based on facts, criteria and logical reasoning.
