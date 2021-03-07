@@ -13,7 +13,7 @@ Key words : Auditive, logical, factual, critical, technical and quantitative.
 Preferred activities : collecting data, analysis, understanding how things work, 
 judging ideas based on facts, criteria and logical reasoning.
 
-1. * [ ] 도서관 방문, 인터넷 검색 등 지식과 정보를 찾고 수집하기
+1. * [x] 도서관 방문, 인터넷 검색 등 지식과 정보를 찾고 수집하기
 2. * [ ] 기본 모형을 설정해서 정보를 논리적으로 분석하기
 3. * [x] 유용한 정보를 제공하는 강의를 듣기
 4. * [ ] 다리나 기계장비 등 공학적 인공물(다리나 기계 등)을 연구하기 위한 목적으로 문
@@ -71,14 +71,14 @@ thinking.
 6. * [ ] 모험을 하고 새로운 지역을 탐험하기 위하여 다른 문화권을 여행하기
 7. * [x] 미래를 생각하고 장기적인 목표를 세우기
 8. * [ ] 사실이나 논리에 의존하기 보다는 직관에 의존해서 해결방안을 찾기
-9. * [ ] 새로운 것에 도달하기 위해서 아이디어나 정보를 종합하기
+9. * [x] 새로운 것에 도달하기 위해서 아이디어나 정보를 종합하기
 10. * [ ] 재미삼아 전혀 다른 방법으로 일을 시도해보기
 
 **결과**
 |Type|Check|
 |:---:|:---:|
-|A|3개|
+|A|4개|
 |B|6개|
 |C|4개|
-|D|1개|
+|D|2개|
 
