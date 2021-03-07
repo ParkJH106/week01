@@ -9,7 +9,6 @@
 ### Herrmann Brain 
 
 A quadrant: Analytical thinking (Rational)
-
 Key words : Auditive, logical, factual, critical, technical and quantitative.
 Preferred activities : collecting data, analysis, understanding how things work, 
 judging ideas based on facts, criteria and logical reasoning.
@@ -27,7 +26,6 @@ judging ideas based on facts, criteria and logical reasoning.
 10. * [ ] 컴퓨터를 이용해서 수학문제 풀이나 정보처리 하기
 
 B quadrant: Sequential thinking (Practical)
-
 Key words : safekeeping, structured, organized, complexity or detailed, planned.
 Preferred activities : following directions, detail oriented work, step-by-step 
 problem solving, organization and implementation.
@@ -44,7 +42,6 @@ problem solving, organization and implementation.
 10. * [ ] 조직과 절차를 배우기 위하여 현장실습 하기
 
 C quadrant: Interpersonal thinking (Feeling)
-
 Key words : Kinesthetic, emotional, spiritual, sensory, feeling.
 Preferred activities : listening to and expressing ideas, looking for personal 
 meaning, sensory input, and group interaction.
@@ -61,7 +58,6 @@ meaning, sensory input, and group interaction.
 10. * [x] 다른 사람을 가르치면서 배우기
 
 D quadrant: Imaginative thinking (Experimental)
-
 Key words : Visual, holistic, intuitive, innovative, and conceptual.
 Preferred activities : Looking at the big picture, taking initiative, challenging 
 assumptions, visuals, metaphoric thinking, creative problem solving, long term 
